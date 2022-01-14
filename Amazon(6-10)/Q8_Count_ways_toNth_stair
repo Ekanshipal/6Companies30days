@@ -1,0 +1,6 @@
+//order does not matter so there will be fixed solution for each step after removing duplicate ways 
+   
+    long long countWays(int m)
+    {
+        return (m/2)+1;
+    }
